@@ -1,6 +1,6 @@
 # :notebook: Vue.js Todo List :notebook:
 "Todo List" is a web application that allows users to store and manage their tasks or to-do lists. Users can add, delete and edit tasks.
-# [DEMO LINK](https://serhiivovchenko.github.io/React-Todo-List/)
+# [DEMO LINK](https://serhiivovchenko.github.io/Vue_js-ToDo_List/)
 # Technologies used:
   * JavaScript
   * Vue.js
