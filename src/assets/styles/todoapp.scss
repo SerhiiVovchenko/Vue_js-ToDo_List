@@ -83,13 +83,11 @@
   }
 
   &__footer {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     align-items: center;
 
     box-sizing: content-box;
-    height: 20px;
-    padding: 10px 15px;
 
     font-size: 14px;
 
